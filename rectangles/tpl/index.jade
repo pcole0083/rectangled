@@ -1,0 +1,26 @@
+doctype html
+html(lang="en")
+	head
+		title Rectangled | A 2-player traffic game
+	body
+		h1 Rectangled
+
+		p.
+			Let's Get Started
+
+		div
+			form(action='/find',method='post')
+				div(data-role='fieldcontain')
+					fieldset(data-role='controlgroup')
+						label(for='username') username
+						input(id='username',type='text',value='',placeholder='noob',name='username')
+				div#passworddiv(data-role='fieldcontain')
+					fieldset(data-role='controlgroup')
+						label(for='difficulty') difficulty
+						select(id='difficulty',name='difficulty')
+							option(value='easy') Easy
+							option(value='normal') Normal
+							option(value='hard') Hard
+
+				div(data-role='fieldcontain')
+					input(type='submit',value='Find Game')

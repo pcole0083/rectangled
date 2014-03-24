@@ -1,0 +1,11 @@
+<% extend 'layout/main.ect' %>
+<div id="<%- @id %>">
+	<h1>Rectangled | <%- @upperHelper @title %></h1>
+
+	<span id="status">
+		Finding a game for
+		<span id="username"><%- @params.username %></span>
+		on
+		<span id="difficulty"><%- @params.difficulty %></span>
+	</span>
+</div>

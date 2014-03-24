@@ -1,0 +1,6 @@
+ig.module( 'game.levels.levela' )
+.requires( 'impact.image','game.entities.exit','game.entities.piece' )
+.defines(function(){
+LevelLevela=/*JSON[*/{"entities":[{"type":"EntityExit","x":0,"y":280},{"type":"EntityExit","x":360,"y":80},{"type":"EntityPiece","x":44,"y":200}],"layer":[{"name":"bg","width":10,"height":10,"linkWithCollision":false,"visible":1,"tilesetName":"media/sprite.pieces.png","repeat":false,"preRender":false,"distance":"1","tilesize":40,"foreground":false,"data":[[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42],[42,42,42,42,42,42,42,42,42,42]]},{"name":"collision","width":10,"height":10,"linkWithCollision":true,"visible":1,"tilesetName":"","repeat":false,"preRender":false,"distance":"1","tilesize":40,"foreground":false,"data":[[1,1,1,1,1,1,1,1,1,1],[1,0,0,0,0,0,0,0,0,1],[1,0,0,0,0,0,0,0,0,0],[1,0,0,0,0,0,0,0,0,1],[1,0,0,0,0,0,0,0,0,1],[1,0,0,0,0,0,0,0,0,1],[1,0,0,0,0,0,0,0,0,1],[0,0,0,0,0,0,0,0,0,1],[1,0,0,0,0,0,0,0,0,1],[1,1,1,1,1,1,1,1,1,1]]}]}/*]JSON*/;
+LevelLevelaResources=[new ig.Image('media/sprite.pieces.png')];
+});

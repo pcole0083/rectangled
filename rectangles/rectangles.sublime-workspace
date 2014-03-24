@@ -1,0 +1,1078 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"move",
+				"moveType"
+			],
+			[
+				"bloc",
+				"blockColliding"
+			],
+			[
+				"block",
+				"blockSelected"
+			],
+			[
+				"op",
+				"opponent"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"oppon",
+				"opponentUser"
+			],
+			[
+				"opp",
+				"opponentSocket"
+			],
+			[
+				"oppo",
+				"opponent"
+			],
+			[
+				"oppone",
+				"opponents"
+			],
+			[
+				"_place",
+				"_placeCategoryModel"
+			],
+			[
+				"_cate",
+				"_categoryModel"
+			],
+			[
+				"_categ",
+				"_categories"
+			],
+			[
+				"place",
+				"placecategories"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"liked",
+				"likedPlaces"
+			],
+			[
+				"dis",
+				"dislikedPlaces"
+			],
+			[
+				"message",
+				"messageClass"
+			],
+			[
+				"init",
+				"initClickListener"
+			],
+			[
+				"highest",
+				"highestNumber"
+			],
+			[
+				"reco",
+				"recommendationPoints"
+			],
+			[
+				"rec",
+				"recommendationUniqId"
+			],
+			[
+				"recomm",
+				"recommendationKeys"
+			],
+			[
+				"venu",
+				"venueItem"
+			],
+			[
+				"uni",
+				"uniqIds"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"expire",
+				"expireDates"
+			],
+			[
+				"expi",
+				"expireDates"
+			],
+			[
+				"four",
+				"foursquare"
+			],
+			[
+				"lon",
+				"longitude"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"twi",
+				"twitterOauthToken"
+			],
+			[
+				"twit",
+				"twitterOauthTokenSecret"
+			],
+			[
+				"twitt",
+				"twitterOauthToken"
+			],
+			[
+				"Twit",
+				"twitterOauthTokenSecret"
+			],
+			[
+				"tiw",
+				"twitterOauthTokenSecret"
+			],
+			[
+				"tiwt",
+				"twitterOauthToken"
+			],
+			[
+				"exi",
+				"existingUser"
+			],
+			[
+				"ex",
+				"existingUser"
+			],
+			[
+				"cert",
+				"certificatePath"
+			],
+			[
+				"fours",
+				"foursquareFactory"
+			],
+			[
+				"categor",
+				"categoryCount"
+			],
+			[
+				"categ",
+				"categoryId"
+			],
+			[
+				"des",
+				"destinationPath"
+			],
+			[
+				"accept",
+				"acceptedMimeTypes"
+			],
+			[
+				"bitcoin",
+				"bitcoinAddress"
+			],
+			[
+				"bit",
+				"bitcoin_address"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"pag",
+				"pagePadding"
+			],
+			[
+				"colu",
+				"columnWidth"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"cached",
+				"cachedTweetUrls"
+			],
+			[
+				"cache",
+				"cachedTweetUrls"
+			],
+			[
+				"que",
+				"queuedTweets"
+			],
+			[
+				"res",
+				"resizeColumn"
+			],
+			[
+				"defau",
+				"defaultPageWidth"
+			],
+			[
+				"def",
+				"defaultColumnWidth"
+			],
+			[
+				"default",
+				"defaultColumnWidth"
+			],
+			[
+				"column",
+				"columnWidth"
+			],
+			[
+				"wi",
+				"innerWidth"
+			],
+			[
+				"_",
+				"_offset"
+			],
+			[
+				"load",
+				"loadMoreElements"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"sort",
+				"sortedResult"
+			],
+			[
+				"aja",
+				"ajaxLoader"
+			],
+			[
+				"_cache",
+				"_cacheType"
+			],
+			[
+				"_ac",
+				"_accessTokenSecret"
+			],
+			[
+				"_con",
+				"_consumerSecret"
+			],
+			[
+				"_consu",
+				"_consumerKey"
+			],
+			[
+				"_acc",
+				"_accessTokenSecret"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layout/game.ect",
+			"settings":
+			{
+				"buffer_size": 894,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/lib/game/main.js",
+			"settings":
+			{
+				"buffer_size": 4567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/lib/game/entities/piece.js",
+			"settings":
+			{
+				"buffer_size": 10582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 4709,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/lib/game/entities/player.js",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/lib/game/entities/opponent.js",
+			"settings":
+			{
+				"buffer_size": 793,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/rectangles/public/lib/client/index.js",
+		"/Applications/MAMP/htdocs/rectangles/public/lib/game/entities/opponent.js",
+		"/Applications/MAMP/htdocs/rectangles/public/lib/game/entities/piece.js",
+		"/Applications/MAMP/htdocs/rectangles/public/lib/game/entities/exit.js",
+		"/Applications/MAMP/htdocs/rectangles/views/layout/main.ect",
+		"/Applications/MAMP/htdocs/rectangles/public/js/jquery.cookie.js",
+		"/Applications/MAMP/htdocs/rectangles/views/partial/footer.ect",
+		"/Applications/MAMP/htdocs/rectangles/views/index.ect",
+		"/Applications/MAMP/htdocs/rectangles/views/find.ect",
+		"/Applications/MAMP/htdocs/rectangles/public/js/game.js",
+		"/Applications/MAMP/htdocs/rectangles/views/game/index.ect",
+		"/Applications/MAMP/htdocs/rectangles/public/lib/game/levels/levela.js",
+		"/Applications/MAMP/htdocs/rectangles/views/form.ect",
+		"/Applications/MAMP/htdocs/rectangles/views/layout/footer.ect",
+		"/Applications/MAMP/htdocs/rectangles/views/footer.ect",
+		"/Applications/MAMP/htdocs/rectangles/index.js",
+		"/Applications/MAMP/htdocs/rectangles-nodejs/public/server.js",
+		"/Applications/MAMP/htdocs/rectangles/views/main.ect",
+		"/Applications/MAMP/htdocs/rectangles/package.json",
+		"/Applications/MAMP/htdocs/rectangles/views/game.ect",
+		"/Applications/MAMP/htdocs/rectangles/node_modules/ect/lib/ect.js",
+		"/Applications/MAMP/htdocs/rectangles/tpl/find.jade",
+		"/Applications/MAMP/htdocs/rectangles/impact/lib/game/main.js",
+		"/Applications/MAMP/htdocs/rectangles/views/view.ect",
+		"/Applications/MAMP/htdocs/rectangles/views/layout.hbs",
+		"/Applications/MAMP/htdocs/rectangles/public/index.hbs",
+		"/Applications/MAMP/htdocs/rectangles/views/index.hbs",
+		"/Applications/MAMP/htdocs/rectangles/server.js",
+		"/Applications/MAMP/htdocs/rectangles/impact/lib/server/index.js",
+		"/Applications/MAMP/htdocs/rectangles/impact/lib/game/entities/player.js",
+		"/Applications/MAMP/htdocs/rectangles/views/layout.ect",
+		"/Applications/MAMP/htdocs/rectangles/impact/index.html",
+		"/Applications/MAMP/htdocs/rectangles/impact/lib/game/entities/opponent.js",
+		"/Applications/MAMP/htdocs/rectangles/public/board.js",
+		"/Applications/MAMP/htdocs/rectangles/public/index.js",
+		"/Applications/MAMP/htdocs/pixafy/logicsupply/var/report/188219372044",
+		"/Applications/MAMP/htdocs/nextspot/vendor/thetwelvelabs/foursquare/.gitignore",
+		"/Applications/MAMP/htdocs/nextspot/.gitignore",
+		"/Applications/MAMP/htdocs/nextspot/app/views/layouts/main.volt",
+		"/Applications/MAMP/htdocs/nextspot/app/views/index.volt",
+		"/Applications/MAMP/htdocs/nextspot/public/js/scripts.js",
+		"/Applications/MAMP/htdocs/nextspot/app/views/layouts/splash.volt",
+		"/Applications/MAMP/htdocs/nextspot/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/.gitignore",
+		"/Applications/MAMP/htdocs/nextspot/vendor/facebook/php-sdk/.gitignore",
+		"/Applications/MAMP/htdocs/nextspot/config/deploy.rb",
+		"/Applications/MAMP/htdocs/nextspot/config/deploy/production.rb",
+		"/Applications/MAMP/htdocs/nextspot/Capfile",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/UsersController.php",
+		"/Applications/MAMP/htdocs/nextspot/vendor/thetwelvelabs/foursquare/lib/TheTwelve/Foursquare/EndpointGateway.php",
+		"/Applications/MAMP/htdocs/nextspot/app/views/index/index.volt",
+		"/Applications/MAMP/htdocs/nextspot/app/views/layouts/main.volt.php",
+		"/Applications/MAMP/htdocs/nextspot/app/views/search/index.volt",
+		"/Applications/MAMP/htdocs/nextspot/app/views/users/index.volt",
+		"/Applications/MAMP/htdocs/nextspot/public/css/bootstrap/bootstrap.min.css",
+		"/Applications/MAMP/htdocs/nextspot/public/css/style.css",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/ControllerBase.php",
+		"/Applications/MAMP/htdocs/nextspot/app/plugins/Security.php",
+		"/Applications/MAMP/htdocs/nextspot/public/index.php",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/LikesController.php",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/SearchController.php",
+		"/Applications/MAMP/htdocs/nextspot/app/models/Likes.php",
+		"/Applications/MAMP/htdocs/nextspot/app/config/config.ini",
+		"/Applications/MAMP/htdocs/nextspot/app/models/Places.php",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/IndexController.php",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/TwitterController.php",
+		"/Applications/MAMP/htdocs/nextspot/composer.json",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/FoursquareController.php",
+		"/Applications/MAMP/htdocs/nextspot/vendor/thetwelvelabs/foursquare/lib/TheTwelve/Foursquare/VenuesGateway.php",
+		"/Applications/MAMP/htdocs/nextspot/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/SessionTest.php",
+		"/Applications/MAMP/htdocs/nextspot/vendor/ricardoper/twitteroauth/TwitterOAuth/TwitterOAuth.php",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/FacebookController.php",
+		"/Applications/MAMP/htdocs/nextspot/app/models/Tokens.php",
+		"/Applications/MAMP/htdocs/nextspot/schemas/invo.sql",
+		"/Applications/MAMP/htdocs/nextspot/app/models/Users.php",
+		"/Applications/MAMP/htdocs/nextspot/public/css/bootstrap-social.css",
+		"/Applications/MAMP/htdocs/nextspot/public/css/bootstrap/docs.css",
+		"/Applications/MAMP/htdocs/nextspot/public/css/bootstrap/font-awesome.css",
+		"/Applications/MAMP/htdocs/nextspot/vendor/thetwelvelabs/foursquare/lib/TheTwelve/Foursquare/HttpClient/CurlHttpClient.php",
+		"/Applications/MAMP/htdocs/nextspot/cacert.pem",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/SessionController.php",
+		"/Applications/MAMP/htdocs/nextspot/app/models/Contact.php",
+		"/Applications/MAMP/htdocs/nextspot/vendor/facebook/php-sdk/src/base_facebook.php",
+		"/Applications/MAMP/htdocs/nextspot/vendor/guzzle/guzzle/src/Guzzle/Http/Exception/ServerErrorResponseException.php",
+		"/Applications/MAMP/htdocs/nextspot/app/controllers/SignupController.php",
+		"/Applications/MAMP/htdocs/nextspot/public/css/reset.css",
+		"/Applications/MAMP/htdocs/nextspot/.htaccess",
+		"/Applications/MAMP/htdocs/nextspot/public/.htaccess",
+		"/Applications/MAMP/htdocs/nextspot/app/views/index/index.phtml",
+		"/Users/thomaslackemann/Downloads/invo-master/app/plugins/Security.php",
+		"/Applications/MAMP/htdocs/bitsforit.codeigniter/application/sql/1.0.0.sql",
+		"/Applications/MAMP/htdocs/bitsforit.codeigniter/application/controllers/admin.php",
+		"/Applications/MAMP/htdocs/bitsforit.codeigniter/application/views/template/footer.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/items/index.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/layouts/default.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/items/show/index.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/public/js/dropzone.js",
+		"/Applications/MAMP/htdocs/bitsforit/public/css/styles.css",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/my/dashboard.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/items/create.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/layouts/splash.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/partials/footer.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/controllers/CategoriesController.php",
+		"/Applications/MAMP/htdocs/bitsforit/composer.json",
+		"/Applications/MAMP/htdocs/bitsforit/public/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/bitsforit/app/controllers/HomeController.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/routes.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/users/register.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/layouts/scaffold.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/public/js/bits.js",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/partials/header.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/controllers/MyController.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/users/login.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/database/seeds/SentryUserSeeder.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/database/seeds/ItemsTableSeeder.php",
+		"/Applications/MAMP/htdocs/bitsforit/vendor/fzaninotto/faker/src/Faker/Provider/Base.php",
+		"/Applications/MAMP/htdocs/bitsforit/vendor/fzaninotto/faker/src/Faker/Provider/Lorem.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/categories/index.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/items/user.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/database/migrations/2013_08_26_100845_add_category_id_to_jobs_table.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/categories/admin.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/items/show/offer.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/controllers/ItemsController.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/items/show.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/models/Item.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/views/items/edit.blade.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/controllers/OffersController.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/database/migrations/2013_08_25_212203_create_offers_table.php",
+		"/Applications/MAMP/htdocs/bitsforit/app/database/migrations/2013_08_25_215924_create_feedbacks_table.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.gitignore",
+			".gitignore",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"readd",
+			"cons",
+			"gameId",
+			".user.connected",
+			"user",
+			".user",
+			"\n				var player = ig.game.getEntitiesByType( EntityPlayer )[0];\n				var opponent = ig.game.getEntitiesByType( EntityOpponent )[0];",
+			"socket",
+			"player",
+			"Player",
+			"player",
+			"();\n",
+			"this.getCurrentTile()",
+			"Right",
+			"            \n",
+			"Right",
+			"entityRightX",
+			"Right",
+			"Center",
+			" + this.size.x / 2",
+			"setVelocityByTile",
+			"this.destination",
+			"tilesize",
+			"consol",
+			"cons",
+			"block",
+			"this.moveIntention",
+			"blockMovement",
+			"getTileAdjacentToTile",
+			"moveType.DOWN",
+			"canMoveDirectionFromTile",
+			"this.moveIntention",
+			"tileSize",
+			"		tileSize: 40,\n",
+			"tilesize",
+			"canMoveDirectionFromTile",
+			"getTileAdjacentToTile",
+			"canMoveDirectionFromTile",
+			"			//console.log(res.collision);\n		    if( res.collision.y ) {\n		        console.log('collision y');\n		    }\n		    if( res.collision.x ) {\n		        console.log('collision x');\n		    }\n",
+			"ACTIVE",
+			"checkAgain",
+			"/this.tileSize",
+			"			\n",
+			",\n",
+			":\n",
+			"this",
+			"t:",
+			"1",
+			"3",
+			"4",
+			"120",
+			");\n",
+			"LevelLevela",
+			"fn",
+			"if(player.gameName != playerList[i]) {  \n	 			ig.game.spawnEntity(EntityNetPlayer, ig.system.width/2, ig.system.height/2, {gameName:playerList[i]} );\n			}\n		}",
+			"prefix",
+			"ig.lib",
+			"ig.prefix",
+			"src=\"/",
+			"js",
+			"request",
+			"test",
+			"request",
+			"params",
+			"easy",
+			"publi",
+			"cache",
+			"3700",
+			"opponentPlaying",
+			"ig.",
+			"type",
+			"checkAgainst",
+			"type",
+			"color",
+			"\n				div(class='rt-resource-grid-tile')\n				div(class='rt-resource-grid-tile')\n				div(class='rt-resource-grid-tile')\n				div(class='rt-resource-grid-tile rt-resource-grid-tile-b')",
+			"div(class='rt-resource-grid-tile')\n			div(class='rt-board-col')",
+			"rt-resource-grid-tile-t ",
+			"div(class='rt-board-col')\n				div(class='rt-resource-grid-tile')",
+			"\n				div(class='rt-resource-grid-tile')",
+			"rt-resource-grid-tile",
+			" rt-resource-grid-tile",
+			"-lc",
+			"function ",
+			"});\n",
+			"opponentDifficulty",
+			"oppenentDifficulty",
+			"username",
+			"playersOnline",
+			"}}",
+			"{{",
+			"$uniqIds",
+			"_placeModel",
+			"_placeModels",
+			"$place",
+			"associatedCategories",
+			"$term",
+			"$likes",
+			"$user",
+			"user",
+			"getCache",
+			"this",
+			"setCache",
+			"setCac",
+			" btn btn-default",
+			" class=\"btn-group\"",
+			"div",
+			"</li>>",
+			" btn btn-default",
+			" class=\"btn-group\"",
+			"div",
+			"vendor",
+			"oauth",
+			"twitter",
+			"kertz",
+			"twitteroauth",
+			"kert",
+			"vendor",
+			"deploy@example.com",
+			"basePath",
+			"subfooter",
+			"h4",
+			"<li>",
+			"<ul>",
+			"subfooter",
+			"sm-4",
+			"../fonts",
+			"fonts",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layout/game.ect",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								847
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/lib/game/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2658,
+								2665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 209.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/lib/game/entities/piece.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2736,
+								2736
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 818.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/lib/game/entities/player.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/lib/game/entities/opponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rectangles.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"public/css/style.css"
+			],
+			[
+				"styl",
+				"public/css/style.css"
+			],
+			[
+				"control",
+				"app/controllers/ControllerBase.php"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"contr",
+				"app/controllers/ControllerBase.php"
+			],
+			[
+				"cont",
+				"app/controllers/ControllerBase.php"
+			],
+			[
+				"bas",
+				"vendor/facebook/php-sdk/src/base_facebook.php"
+			],
+			[
+				"conf",
+				"app/config/config.ini"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"security",
+				"app/plugins/Security.php"
+			],
+			[
+				"splash",
+				"app/views/layouts/splash.blade.php"
+			],
+			[
+				"footer",
+				"app/views/partials/footer.blade.php"
+			],
+			[
+				"spl",
+				"app/views/layouts/splash.blade.php"
+			],
+			[
+				"sty",
+				"public/css/styles.css"
+			],
+			[
+				"mycon",
+				"app/controllers/MyController.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"dash",
+				"app/views/my/dashboard.blade.php"
+			],
+			[
+				"default.",
+				"app/views/layouts/default.blade.php"
+			],
+			[
+				"items/show",
+				"app/views/items/show/index.blade.php"
+			],
+			[
+				"itemscon",
+				"app/controllers/ItemsController.php"
+			],
+			[
+				"bits.j",
+				"public/js/bits.js"
+			],
+			[
+				"items/create",
+				"app/views/items/create.blade.php"
+			],
+			[
+				"header.",
+				"app/views/partials/header.blade.php"
+			],
+			[
+				"dashboard",
+				"app/views/my/dashboard.blade.php"
+			],
+			[
+				"items/",
+				"app/views/items/index.blade.php"
+			],
+			[
+				"items/show.",
+				"app/views/items/show/index.blade.php"
+			],
+			[
+				"bits.",
+				"public/js/bits.js"
+			],
+			[
+				"tyle",
+				"public/css/styles.css"
+			],
+			[
+				"scaff",
+				"app/views/layouts/scaffold.blade.php"
+			],
+			[
+				"header",
+				"app/views/partials/header.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/beerboxclub/beerboxclub.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
